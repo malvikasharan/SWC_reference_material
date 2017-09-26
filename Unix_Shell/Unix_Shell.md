@@ -22,17 +22,6 @@ Knowing how to use the shell will also enable you to run programs that
 are only developed for this environment, which is the case for many 
 bioinformatical tools.
 
-## Create and download some test files
-
-Use the `Makefile` of this repo and run
-
-```
-$ make example_files
-```
-
-This should create folder `unix_course_files`, containing several
-examples files.
-
 ## The basic anatomy of a command line call
 
 ![Anatomy of a command](LinuxCommandStructure.png)
