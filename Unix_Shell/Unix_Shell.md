@@ -1,5 +1,5 @@
 % Introduction to the Unix shell
-% Konrad U. Förstner, Toby Hodges, Holger Dinkel, Frank Thommen
+% Konrad U. Förstner, Malvika Sharan, Toby Hodges, Holger Dinkel, Frank Thommen
 % 
 
 ![CC-BY](cc-by.png)
