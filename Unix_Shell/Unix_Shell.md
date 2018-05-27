@@ -110,6 +110,7 @@ small selection:
 * Ctlr-↓ - Go forward in command history
 * Ctrl-a - Jump to the beginning of a line
 * Ctrl-e - Jump to the end of a line
+* Alt-arrow - Jump words (forward/backward)
 * Ctrl-u - Remove everything before the cursor position
 * Ctrl-k - Remove everything after the cursor position
 * Ctrl-l - Clean the screen
